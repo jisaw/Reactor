@@ -1,0 +1,2 @@
+%{"neotoma": {:hex, :neotoma, "1.7.3", "d8bd5404b73273989946e4f4f6d529e5c2088f5fa1ca790b4dbe81f4be408e61", [:rebar], []},
+  "solid": {:hex, :solid, "0.0.2", "5eeb35130670c3b7e301773565d61976920ab8321e25b0acf07fa1accb787871", [:mix], [{:neotoma, "~> 1.7.3", [hex: :neotoma, optional: false]}]}}
